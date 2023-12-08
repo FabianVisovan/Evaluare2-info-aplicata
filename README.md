@@ -1,0 +1,1 @@
+# Evaluare2-info-aplicata
