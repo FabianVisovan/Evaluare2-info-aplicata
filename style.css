@@ -1,0 +1,67 @@
+/* Stil pentru titluri */
+h1 {
+  font-family: Arial, sans-serif;
+  color: green;
+}
+
+h2 {
+  font-family: 'Times New Roman', serif;
+  color: blue;
+}
+
+h3 {
+  font-family: Verdana, sans-serif;
+  color: purple;
+}
+
+h4 {
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h5 {
+  font-family: 'Courier New', monospace;
+  color: #666;
+}
+
+h6 {
+  font-family: Georgia, serif;
+  color: #990000;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+}
+
+img {
+  border-radius: 10px;
+  opacity: 0.8;
+  width: 30%;
+  height: auto;
+}
+
+#slideshow-container {
+  background-color: #ccc;
+  padding: 10px;
+  margin-bottom: 20px;
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 33.33%;
+  padding: 5px;
+}
